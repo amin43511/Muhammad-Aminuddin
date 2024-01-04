@@ -1,6 +1,6 @@
 # Muhammad-Aminuddin
  <div align="center">
-    <h1> Hi there, I'm Hammad Sheikh👋<a href="https://hammad-air.github.io/hammad/"></h1>
+    <h1> Hi there, I'm Muhammad Aminuddin👋<a href="https://hammad-air.github.io/hammad/"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
@@ -9,9 +9,9 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
+🤵 Dealing with Generative AI and Automation stuff 🤖
 	
-👨‍💻 Lead NLP Developer at HandyHelps
+👨‍💻 
 
 🔥 NLP & VUI Consultant and Web Developer 
 	
@@ -25,9 +25,9 @@
 
 📓 I’m currently learning LLM's and Genrative AI... 😭
 
-📧 hammadn788@gmail.com
+📧 amin43511@gmail.com
 
-🎨 Portfolio: https://hammad-air.github.io/hammad/
+🎨 Portfolio: https://github.com/amin43511
 
 💼 LinkedIn: https://www.linkedin.com/in/hammad-nadeem-6673981b5/
 
